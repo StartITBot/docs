@@ -44,7 +44,7 @@ Szczegółowe informacje o zakresie poszczególnych wariantów dostępne są na 
 
 ## 6. Odstąpienie od umowy
 1. Zgodnie z art. 13 ust. 38 z dnia 30 maja 2014 r. o prawach konsumenta Użytkownikowi nie przysługuje prawo do odstąpienia od Umowy regulowane przez wspomnianą ustawę.
-2. Pomimo to, Użytkownik może odstąpić od Umowy w ciągu 7 dni od jej zawarcia. Wiąże się to jednak z **całkowitym usunięciem konfiguracji serwerów Discord objętych Subskrypcją w ramach Umowy**.
+2. Pomimo to, Użytkownik może odstąpić od Umowy w ciągu 14 dni od jej zawarcia (dotyczy jedynie zakupu Subskrypcji w planie rocznym). Wiąże się to jednak z **całkowitym usunięciem konfiguracji serwerów Discord objętych Subskrypcją w ramach Umowy**.
 3. Po odstąpieniu przez Użytkownika od Umowy Usługodawca zwraca zapłaconą w ramach Subskrypcji kwotę na rachunek bankowy lub konto PayPal Użytkownika.
 4. Ze względu na ograniczenia techniczne, __**niemożliwy jest zwrot w przypadku opłacenia Subskrypcji przez paysafecard**__.
 5. Aby odstąpić od Umowy, należy skontaktować się z Administratorem za pośrednictwem jednego z adresów wskazanych w roz. 2 niniejszego Regulaminu.
