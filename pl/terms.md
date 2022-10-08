@@ -3,7 +3,7 @@
 ## 1. Definicje
 - **Usługodawca** – właściciel serwisu będący osobą fizyczną – Kacper Podpora
 - **Bot** – bot **StartIT#8114** (ID: `690617660177907712`) funkcjonujący w ramach aplikacji Discord
-- **Serwis** – serwis internetowy działający pod adresem [beta.startit.fun](https://beta.startit.fun) oraz [botpanel.pl](https://botpanel.pl)
+- **Serwis** – serwis internetowy działający pod adresem [beta.startit.bot](https://beta.startit.bot) oraz [startit.bot](https://startit.bot)
 - **Discord** – aplikacja Discord należąca do [Discord Inc.](https://discord.com/) (środek komunikacji elektronicznej)
 - **Użytkownik** – osoba fizyczna korzystająca z Usługi (usługobiorca)
 - **Usługa** – usługa świadczona drogą elektroniczną przez Usługodawcę na rzecz Użytkownika (usługobiorcy) za pośrednictwem Bota lub Strony w myśl przepisów Ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną
