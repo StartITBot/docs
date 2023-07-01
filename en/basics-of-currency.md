@@ -1,51 +1,51 @@
-# Basics of currency
+# Podstawy waluty
 
-In the economy plugin, virtual currency plays a central role. Users can earn currency by performing actions such as
-working, chatting, and participating in voice channels. This section will provide an overview of the currency system and
-its functionalities.
+W pluginie ekonomicznej wirtualna waluta odgrywa kluczową rolę. Użytkownicy mogą zarabiać walutę, wykonując czynności takie jak
+praca, czatowanie i uczestnictwo w kanałach głosowych. Ta sekcja zawiera przegląd systemu walutowego i
+jego funkcjonalności.
 
-## /balance Command
+## Komenda /balance
 
-The `/balance [user]` command allows you to check your own or someone else's bank account and wallet balance. If a
-user's mention or ID is provided as an argument, the command will display the bank account and wallet balance of
-that specific user, otherwise it will display the balance of the user who invoked the command.
+Komenda `/balance [użytkownik]` pozwala na sprawdzenie własnego lub czyjegoś konta bankowego i salda portfela. Jeśli
+użytkownik wspomni albo ID jest podany jako argument, polecenie wyświetli saldo konta bankowego i portfela
+tego konkretnego użytkownika, w przeciwnym razie wyświetli saldo użytkownika, który wywołał polecenie.
 
 ![](../assets/v6.png)
 
-The currency is stored in two different locations: the wallet and the bank.
+Waluta jest przechowywana w dwóch różnych miejscach: portfelu i banku.
 
-## Wallet cash – used for payments, but vulnerable to theft
+## Pieniądze z portfela – używane do płatności, ale narażone na kradzież
 
-Wallet is the primary storage for currency and can be used for payments.
+Portfel jest głównym miejscem przechowywania waluty i może być wykorzystywany do płatności.
 
-The `/rob <user>` command allows you attempting in steal money from another user's wallet. By mentioning or providing
-the ID of the target user, you can rob others from cash stored in wallet. However, there is a chance of failure
-[**your networth / (their cash + your networth)**] with a minimum and maximum of 20% and 80%. Amount stolen is
-calculated as: success probability times their cash.
+Komenda `/rob <użytkownik>` pozwala na próbę kradzieży pieniędzy z portfela innego użytkownika. Wspominając lub podając
+ID docelowego użytkownika, można okraść innych z gotówki przechowywanej w portfelu. Istnieje jednak szansa na niepowodzenie
+[**twoja wartość netto / (ich gotówka + twoja wartość netto)**] z minimalną i maksymalną wartością 20% i 80%. Skradziona kwota jest
+obliczana jako: prawdopodobieństwo sukcesu razy ich gotówka.
 
-## Bank storage – protected place to keep funds
+## Przechowywanie w banku – chronione miejsce do przechowywania środków
 
-Bank provides a secure place to store funds. Money stored in the bank cannot be directly used in commands and must be
-withdrawn to the wallet using the /withdraw command.
+Bank zapewnia bezpieczne miejsce do przechowywania środków. Pieniądze przechowywane w banku nie mogą być bezpośrednio używane w poleceniach i muszą być
+wypłacone do portfela za pomocą komendy /withdraw.
 
-The `/deposit <amount>` command allows you to deposit a specified amount of money from your wallet into your bank
-account. This provides a secure way to store funds and protect them from potential losses through other commands.
-You can decide how much money you want to deposit by specifying the desired amount as an argument.
+Komenda `/deposit <ilość>` umożliwia zdeponowanie określonej kwoty pieniędzy z portfela na konto bankowe.
+konto bankowe. Zapewnia to bezpieczny sposób przechowywania środków i chroni je przed potencjalnymi stratami w wyniku innych komend.
+Możesz zdecydować, ile pieniędzy chcesz wpłacić, określając żądaną kwotę jako argument.
 
-The `/withdraw <amount>` command enables you to withdraw a specified amount of money from your bank account to your
-wallet. This allows you to access your funds for various commands and transactions. You can decide how much money you
-want to withdraw by specifying the desired amount as an argument.
+Komenda `/withdraw <ilość>` umożliwia wypłacenie określonej kwoty pieniędzy z konta bankowego do
+portfela. Umożliwia to dostęp do środków na potrzeby różnych komend i transakcji. Możesz zdecydować, ile pieniędzy
+chcesz wypłacić, podając żądaną kwotę jako argument.
 
-## /pay – Transferring currency
+## /pay – Transfer waluty
 
 ![](../assets/v18.gif)
 
-The `/pay <user> <money>` command allows you to transfer virtual money to another user within the server. By
-mentioning or providing the ID of the recipient user and specifying the desired amount, you can initiate a transaction
-and send virtual money to someone else.
+Komenda `/pay <użytkownik> <pieniądze>` umożliwia przesyłanie wirtualnych pieniędzy do innego użytkownika na serwerze. Poprzez
+wzmiankę lub ID użytkownika będącego odbiorcą i określając żądaną kwotę, można zainicjować transakcję
+i wysłać wirtualne pieniądze komuś innemu.
 
-## /topmoney – Currency leaderboard
+## /topmoney – Topka pieniędzy
 
-The `/topmoney` command lists the top 10 users with the highest amount of virtual money in their bank account.
-This command provides an overview of the wealthiest members of the community and can serve as a leaderboard for users to
-compare their progress.
+Komenda `/topmoney` zawiera listę 10 najlepszych użytkowników z największą ilością wirtualnych pieniędzy na koncie bankowym.
+Ta komenda zapewnia przegląd najbogatszych członków społeczności i może służyć jako tablica wyników dla użytkowników do
+porównywać swoje postępy.
