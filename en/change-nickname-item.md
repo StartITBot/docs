@@ -1,38 +1,38 @@
-# Change server nickname via item
+# Zmiana pseudonimu serwera za pomocą przedmiotu
 
-The "Change User Nickname" item is a special tool that allows users to modify their nickname within the server. It
-provides a fun and interactive way for users to personalize their identity and add a touch of creativity to their
-presence. With this item, users can easily update their nickname without the need for manual intervention from server
-administrators.
+Przedmiot "Zmień pseudonim użytkownika" jest specjalnym narzędziem, które pozwala użytkownikom modyfikować swój pseudonim na serwerze. Zapewnia
+zabawny i interaktywny sposób, w jaki użytkownicy mogą spersonalizować swoją tożsamość i dodać odrobinę kreatywności do
+swojej obecności. Dzięki temu przedmiotowi użytkownicy mogą łatwo aktualizować swój pseudonim bez konieczności ręcznej interwencji ze strony
+administratorów.
 
-## Using the item
+## Używanie przedmiotu
 
-You can acquire this item from the server's shop and use it to change your nickname. Upon using the item, a dialog
-prompt will appear, asking you to input your desired new nickname. After typing the new nickname, the bot will
-automatically update it and reflect the change in the server.
+Możesz nabyć ten przedmiot w sklepie serwera i użyć go do zmiany swojego nicku. Po użyciu przedmiotu pojawi się
+okno dialogowe z prośbą o wprowadzenie nowego pseudonimu. Po wpisaniu nowego pseudonimu, bot
+automatycznie go zaktualizuje i odzwierciedli zmianę na serwerze.
 
-It's important to note that the "Change User Nickname" item is designed for one-time use and will be destroyed after it
-has been utilized unless you configure it otherwise.
+Należy pamiętać, że przedmiot "Zmień pseudonim" jest przeznaczony do jednorazowego użytku i zostanie zniszczony 
+po jego użyciu, chyba że zostanie skonfigurowany inaczej.
 
-## Admin: Enabling the Item
+## Admin: Włączanie przedmiotu
 
-To enable the "Change User Nickname" item, follow these steps in the server dashboard:
+Aby włączyć przedmiot "Zmień pseudomin", wykonaj następujące kroki na panelu serwera:
 
-1. Locate the item configuration section.
-2. Enable the "Display Item in Shop" option to make the item available for purchase in the server's shop.
+1. Znajdź sekcję konfiguracji przedmiotu.
+2. Włącz opcję "Wyświetlaj przedmiot w sklepie", aby udostępnić przedmiot do zakupu w sklepie serwera.
 
-## Admin: Customizing Self-Breaking Behavior
+## Admin: Dostosowywanie zachowań samozniszczenia
 
-By default, the "Change User Nickname" item is configured to be self-breaking, meaning it will be consumed and removed
-from the user's inventory after usage. However, if you prefer to modify this behavior, you can make use of the
-"Cooldown" option in the item configuration.
+Domyślnie przedmiot "Zmień pseudonim" jest skonfigurowany jako samozniszczalny, co oznacza, że po użyciu zostanie zużyty i usunięty
+z ekwipunku użytkownika po użyciu. Jeśli jednak wolisz zmodyfikować to zachowanie, możesz skorzystać z opcji
+"Odnowienie" w konfiguracji przedmiotu.
 
-1. Enable the "Cooldown" switch in the item configuration.
-2. Specify the desired cooldown duration in the provided input field. This duration determines how often users can
-   change their nickname using this item.
+1. Włącz przełącznik "Odnowienie" w konfiguracji przedmiotu.
+2. Określ żądany czas odnowienia w podanym polu wprowadzania. Czas ten określa, jak często użytkownicy mogą
+   zmieniać swój pseudonim za pomocą tego przedmiotu.
 
-Adjusting the cooldown duration allows you to control the frequency at which users can utilize the "Change User
-Nickname" item.
+Dostosowanie czasu odnowienia pozwala kontrolować częstotliwość, z jaką użytkownicy mogą korzystać z przedmiotu
+"Zmień pseudonim".
 
-With the "Change User Nickname" item, your server members can add a personal touch to their presence, express their
-individuality, and have fun interacting with others in a unique way.
+Dzięki przedmiotowi "Zmień pseudonim" członkowie twojego serwera mogą dodać osobisty akcent do swojej obecności, wyrazić swoją
+indywidualność, i dobrze się bawić, wchodząc w interakcje z innymi w wyjątkowy sposób.
