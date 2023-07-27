@@ -18,3 +18,10 @@
 * [The basics of /roulette](/docs/roulette)
 * [The basics of /russian-roulette](/docs/russian-roulette)
 * [Admin: Additional settings](/docs/additional-settings)
+
+## Moderated channels
+* [Suggestions channel](/docs/suggestions-channel)
+* [Counting channel](/docs/counting-channel)
+* [Image-only channel](/docs/image-channel)
+* [Last letter channel](/docs/last-letter-channel)
+* [Person below channel](/docs/person-below-channel)
