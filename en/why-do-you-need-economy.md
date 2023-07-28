@@ -1,7 +1,11 @@
 # Why do you need economy?
 
 The economy plugin of StartIT provides a fun and interactive way for users to engage with the server and earn
-virtual currency. Here are a few reasons why you might want to use the economy plugin:
+virtual currency. 
+
+![](../assets/v24.png)
+
+Here are a few reasons why you might want to use the economy plugin:
 
 1. **Boost server activity:** The economy plugin motivates users to actively participate in the server by providing
    various ways to earn virtual money. This encourages more interactions and conversations among members, leading to a

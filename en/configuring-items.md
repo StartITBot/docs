@@ -35,6 +35,8 @@ affecting the user's entire inventory.
 Items can be created directly from the dashboard. To create a new item, navigate to the "Items" page and click the
 plus button. You will be prompted to enter the item's name, type, and other configuration options described below.
 
+---
+
 ## Item display configuration
 
 ![](../assets/v2.png)
@@ -67,6 +69,8 @@ this item after the specified time. For example, you can create an item that giv
 ### Limit the number of items in the backpack:
 
 A useful feature that allows you to limit how many items one user can have.
+
+---
 
 ## Shop configuration
 
@@ -120,6 +124,8 @@ item.
 
 Specify a percentage chance that the item will not be delivered to the user after purchase. This adds an element of risk
 to the purchase and can create an element of surprise for users.
+
+---
 
 ## Configure /use-item behavior
 

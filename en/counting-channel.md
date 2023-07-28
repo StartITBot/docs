@@ -3,48 +3,41 @@
 ## Introduction
 
 The Counting Channel is a delightful and interactive feature of StartIT designed to bring fun and engaging
-numerical activities to your server. This unique channel only permits messages with numbers that must be in sequential
-order. Members can take turns counting, and the bot ensures that the sequence remains unbroken, creating an enjoyable
+numerical activities to your server. This unique channel only permits messages with **numbers that must be in sequential
+order**. Members can take turns counting, and the bot ensures that the sequence remains unbroken, creating an enjoyable
 community activity.
 
-## Key Features and Benefits
+![](../assets/v26.png)
 
-### 1. Fun Numerical Activity
+1. **Fun Numerical Activity:** The Counting Channel provides an enjoyable way for your community members to come
+   together and participate in a shared
+   numerical adventure. Counting together creates a sense of camaraderie and can be a relaxing and entertaining pastime.
 
-The Counting Channel provides an enjoyable way for your community members to come together and participate in a shared
-numerical adventure. Counting together creates a sense of camaraderie and can be a relaxing and entertaining pastime.
+2. **Sequential Number Validation:** The bot actively validates messages in the Counting Channel to ensure they contain
+   numbers in the correct sequential
+   order. This feature adds an element of challenge and encourages users to be attentive while counting.
 
-### 2. Sequential Number Validation
+## Why the Counting Channel Matters
 
-The bot actively validates messages in the Counting Channel to ensure they contain numbers in the correct sequential
-order. This feature adds an element of challenge and encourages users to be attentive while counting.
+The Counting Channel serves as a lighthearted and engaging feature in your Discord server. Here are some reasons why it
+is valuable:
 
-## Setting Up the Counting Channel
+```cards
+# Community Bonding
+The Counting Channel encourages collaboration and camaraderie among members as they work together to maintain the numerical sequence.
 
-To set up the Counting Channel, follow these steps:
+# Entertainment
+Counting together can be a fun and relaxing way for users to unwind and enjoy each other's company.
 
-1. Open dashboard and navigate to the "Moderated Channels" plugin.
+# Attention to Detail
+Users need to be mindful and attentive to the counting process, fostering focus and mental acuity.
 
-2. Select the "Counting Channel" category.
+# Encourages Participation
+The interactive nature of the Counting Channel encourages users to actively participate and contribute to the server's activities.
+```
 
-3. Click on "New Configuration" to create a new setup for your Counting Channel.
-
-4. You will be presented with various options to customize the channel:
-
-    - **Channel Name**: Choose an existing Discord channel or create a new one dedicated to counting. This is where all
-      the counting will take place.
-
-    - **Type of Moderation**:
-
-        - **Option 1 - No consecutive messages**: Enabling this mode prevents a user from sending two consecutive
-          messages in the Counting Channel. For instance, if User A sends "1", they will not be able to send "2"
-          immediately after. This mode ensures that multiple users participate in the counting process.
-
-        - **Option 2 - Without restrictions**: This mode allows users to send messages with numbers in sequential order
-          without the restriction of consecutive messages by the same user. Users must ensure that they correctly
-          continue the numerical sequence.
-
-5. Save the configuration, and the Counting Channel is ready for your community to enjoy.
+The Counting Channel adds a touch of excitement and unity to your Discord server, making it an enjoyable space for
+everyone.
 
 ## How Users Interact with the Counting Channel
 
@@ -63,21 +56,33 @@ To set up the Counting Channel, follow these steps:
 6. Users strive to maintain the counting sequence, and the counting activity continues as long as the community enjoys
    it.
 
-## Why the Counting Channel Matters
+---
 
-The Counting Channel serves as a lighthearted and engaging feature in your Discord server. Here are some reasons why it
-is valuable:
+## Admin: Setting Up the Counting Channel
 
-- **Community Bonding**: The Counting Channel encourages collaboration and camaraderie among members as they work
-  together to maintain the numerical sequence.
+To set up the Counting Channel, follow these steps:
 
-- **Entertainment**: Counting together can be a fun and relaxing way for users to unwind and enjoy each other's company.
+1. Open dashboard and navigate to the "Moderated Channels" plugin.
 
-- **Attention to Detail**: Users need to be mindful and attentive to the counting process, fostering focus and mental
-  acuity.
+2. Select the "Counting Channel" category.
 
-- **Encourages Participation**: The interactive nature of the Counting Channel encourages users to actively participate
-  and contribute to the server's activities.
+3. Click on "New Configuration" to create a new setup for your Counting Channel.
 
-The Counting Channel adds a touch of excitement and unity to your Discord server, making it an enjoyable space for
-everyone.
+![](../assets/v40.png)
+
+You will be presented with various options to customize the channel:
+
+- **Channel Name**: Choose an existing Discord channel or create a new one dedicated to counting. This is where all
+  the counting will take place.
+  
+- **Type of Moderation**:
+  
+    - **Option 1 - No consecutive messages**: Enabling this mode prevents a user from sending two consecutive
+      messages in the Counting Channel. For instance, if User A sends "1", they will not be able to send "2"
+      immediately after. This mode ensures that multiple users participate in the counting process.
+  
+    - **Option 2 - Without restrictions**: This mode allows users to send messages with numbers in sequential order
+      without the restriction of consecutive messages by the same user. Users must ensure that they correctly
+      continue the numerical sequence.
+
+Save the configuration, and the Counting Channel is ready for your community to enjoy.
