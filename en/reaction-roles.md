@@ -13,7 +13,7 @@ To set up Selfroles for your Discord server, go to StartIT Dashboard -> Selfrole
 
 Select the channel where you want the Role Hub message to be located.
 
-![](../assets/v31.png)
+![](../assets/v31.png) 
 
 ## Select a Panel Mode
 

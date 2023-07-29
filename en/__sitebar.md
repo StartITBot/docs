@@ -1,6 +1,8 @@
 ## Selfroles
 * [Admin: Selfroles overview](/docs/selfroles)
 * [Reaction roles](/docs/reaction-roles)
+* [Button roles](/docs/button-roles)
+* [Select roles](/docs/select-roles)
 
 ## Moderated channels
 * [Suggestions channel](/docs/suggestions-channel)
