@@ -11,6 +11,9 @@
 * [Last letter channel](/docs/last-letter-channel)
 * [Person below channel](/docs/person-below-channel)
 
+## Server managment
+* [Auto roles](/docs/autoroles)
+
 ## Economy
 * [Admin: Why do you need economy?](/docs/why-do-you-need-economy)
 * [Basics of currency](/docs/basics-of-currency)
