@@ -1,3 +1,5 @@
+* [Lemon update](/docs/lemon-update)
+
 ## Selfroles
 * [Admin: Selfroles overview](/docs/selfroles)
 * [Reaction roles](/docs/reaction-roles)

@@ -1,3 +1,21 @@
+* [Aktualizacja lemon](/docs/lemon-update)
+
+## Self role
+* [Admin: Self role](/docs/selfroles)
+* [Reaction role](/docs/reaction-roles)
+* [Button role](/docs/button-roles)
+* [Select role](/docs/select-roles)
+
+## Kanały moderowane
+* [Kanał propozycje](/docs/suggestions-channel)
+* [Kanał liczenie](/docs/counting-channel)
+* [Kanał z obrazkami](/docs/image-channel)
+* [Kanał ostatnia litera](/docs/last-letter-channel)
+* [Kanał osoba niżej](/docs/person-below-channel)
+
+## Zarządzanie serwerem
+* [Automatyczne role](/docs/autoroles)
+
 ## Economy
 * [Admin: Dlaczego potrzebujesz ekonomii?](/docs/why-do-you-need-economy)
 * [Podstawy waluty](/docs/basics-of-currency)
