@@ -4,7 +4,7 @@ Zamysł tego pluginu jest dosyć prosty. Bot będzie nadawał użytkownikom role
 
 ## Rola przy dołączeniu na serwer
 
-StartIT dzieli członków na osoby oraz boty i daje ci możliwość zdecydowania, kto ma dostać jaką rolę przy dołączeniu.
+StartIT dzieli członków na osoby oraz boty i daje Ci możliwość zdecydowania, kto ma dostać jaką rolę przy dołączeniu.
 
 ### Rola dla nowych członków
 
@@ -29,7 +29,7 @@ Możliwe ustawienia:
 - **Role** - lista ról, które bot nada nowym osobom (bez botów).
 - **Opóźnienie w akceptacji regulaminu serwera** - Zaznacz tę opcję, gdy masz włączone sprawdzanie członków na serwerze
 
-## Rola dla twoich Nitro Boosterów
+## Rola dla Twoich Nitro Boosterów
 
 Jedna rola Nitro Booster nie wystarcza? Nasz bot umożliwia wybranie dodatkowych ról.
 
@@ -46,7 +46,7 @@ Jeżeli chcesz wspomóc naszą pracę, stwórz na swoim serwerze rolę "StartIT 
 
 ![img_24.png](autoroles_5.png)
 
-Bot będzie automatycznie ją nadawać użytkownikom, który wsparli nas pieniężnie.
+Bot będzie automatycznie ją nadawać użytkownikom, którzy wsparli nas pieniężnie.
 
 Dziękujemy <3
 
