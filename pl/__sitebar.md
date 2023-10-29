@@ -2,9 +2,9 @@
 
 ## Self role
 * [Admin: Self role](/docs/selfroles)
-* [Reaction role](/docs/reaction-roles)
-* [Button role](/docs/button-roles)
-* [Select role](/docs/select-roles)
+* [Panele z rolami](/docs/reaction-roles)
+* [Panele z przyciskami](/docs/button-roles)
+* [Panele z wyborem](/docs/select-roles)
 
 ## Kanały moderowane
 * [Kanał propozycje](/docs/suggestions-channel)

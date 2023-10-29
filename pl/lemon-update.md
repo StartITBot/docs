@@ -2,12 +2,6 @@
 
 ![](../assets/startitlemon.png)
 
-
-```language
-Inne języki:
-en: This document is also available in language English – CLICK HERE
-```
-
 ## Nowy plugin: Automatyzacje
 
 Wiemy, że każdy serwer jest unikatowy i ma własne wymagania. Dlatego stworzyliśmy nowy plugin, który pozwala na
@@ -202,7 +196,7 @@ Ciągle ulepszamy nasze komendy, aby były jeszcze lepsze. Aktualizacja ta wprow
 W niektórych przypadkach zmieniliśmy wygląd albo ulepszyliśmy obecne funkcjonalności.
 Oto lista najważniejszych zmian:
 
-### Wykonaj komendę na kimś cytując jego wiadomość
+### Wykonaj komendę na kimś, cytując jego wiadomość
 
 Gdy umieścisz komendę w cytowanej wiadomości, nie musisz już podawać tej osoby w argumencie – bot automatycznie domyśli
 się co chcesz zrobić i wykona komendę na cytowanej osobie.
@@ -336,7 +330,7 @@ Od teraz możesz ustawić, aby użytkownicy musieli zapłacić, aby dołączyć 
 
 ![](../assets/mar16-req-pl.png)
 
-## Rola dla osób na chat głosowym
+## Rola dla osób na kanale głosowym
 
 Możliwość utworzenia roli dla ludzi, którzy są na dowolnym kanale głosowym. Bot zabierze tę rolę, gdy użytkownik opuści
 kanał.

@@ -2,12 +2,6 @@
 
 ![](../assets/startitlemon.png)
 
-
-```language
-Other languages:
-pl: Ten dokument jest również dostępny w języku polskim - KLIKNIJ TUTAJ
-```
-
 ## New plugin: Automations
 
 We know that every server is unique and has its own requirements. Therefore, we have created a new plugin that allows you to
