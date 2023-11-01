@@ -27,7 +27,7 @@ Możliwe ustawienia:
 
 Możliwe ustawienia:
 - **Role** - lista ról, które bot nada nowym osobom (bez botów).
-- **Opóźnienie w akceptacji regulaminu serwera** - Zaznacz tę opcję, gdy masz włączone sprawdzanie członków na serwerze
+- **Opóźnienie w akceptacji regulaminu serwera** - Zaznacz tę opcję, gdy masz włączone sprawdzanie członków na serwerze.
 
 ## Rola dla Twoich Nitro Boosterów
 
