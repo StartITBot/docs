@@ -16,7 +16,7 @@
 ## Zarządzanie serwerem
 * [Automatyczne role](/docs/autoroles)
 
-## Economy
+## Ekonomia
 * [Admin: Dlaczego potrzebujesz ekonomii?](/docs/why-do-you-need-economy)
 * [Podstawy waluty](/docs/basics-of-currency)
 * [Uzyskiwanie waluty](/docs/obtaining-currency)
