@@ -28,15 +28,14 @@ obliczana jako: prawdopodobieństwo sukcesu razy ich gotówka.
 Bank zapewnia bezpieczne miejsce do przechowywania środków. Pieniądze przechowywane w banku nie mogą być bezpośrednio używane w poleceniach i muszą być
 wypłacone do portfela za pomocą komendy /withdraw.
 
-Komenda `/deposit <ilość>` umożliwia zdeponowanie określonej kwoty pieniędzy z portfela na konto bankowe.
-konto bankowe. Zapewnia to bezpieczny sposób przechowywania środków i chroni je przed potencjalnymi stratami w wyniku innych komend.
+Komenda `/deposit <ilość>` umożliwia zdeponowanie określonej kwoty pieniędzy z portfela na konto bankowe. Zapewnia to bezpieczny sposób przechowywania środków i chroni je przed potencjalnymi stratami w wyniku innych komend.
 Możesz zdecydować, ile pieniędzy chcesz wpłacić, określając żądaną kwotę jako argument.
 
 Komenda `/withdraw <ilość>` umożliwia wypłacenie określonej kwoty pieniędzy z konta bankowego do
 portfela. Umożliwia to dostęp do środków na potrzeby różnych komend i transakcji. Możesz zdecydować, ile pieniędzy
 chcesz wypłacić, podając żądaną kwotę jako argument.
 
-## /pay – Transfer waluty
+## /pay – transfer waluty
 
 ![](../assets/v18.gif)
 
@@ -44,7 +43,7 @@ Komenda `/pay <użytkownik> <pieniądze>` umożliwia przesyłanie wirtualnych pi
 wzmiankę lub ID użytkownika będącego odbiorcą i określając żądaną kwotę, można zainicjować transakcję
 i wysłać wirtualne pieniądze komuś innemu.
 
-## /topmoney – Topka pieniędzy
+## /topmoney – topka pieniędzy
 
 Komenda `/topmoney` zawiera listę 10 najlepszych użytkowników z największą ilością wirtualnych pieniędzy na koncie bankowym.
 Ta komenda zapewnia przegląd najbogatszych członków społeczności i może służyć jako tablica wyników dla użytkowników do
