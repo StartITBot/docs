@@ -28,8 +28,7 @@ obliczana jako: prawdopodobieństwo sukcesu razy ich gotówka.
 Bank zapewnia bezpieczne miejsce do przechowywania środków. Pieniądze przechowywane w banku nie mogą być bezpośrednio używane w poleceniach i muszą być
 wypłacone do portfela za pomocą komendy /withdraw.
 
-Komenda `/deposit <ilość>` umożliwia zdeponowanie określonej kwoty pieniędzy z portfela na konto bankowe.
-konto bankowe. Zapewnia to bezpieczny sposób przechowywania środków i chroni je przed potencjalnymi stratami w wyniku innych komend.
+Komenda `/deposit <ilość>` umożliwia zdeponowanie określonej kwoty pieniędzy z portfela na konto bankowe. Zapewnia to bezpieczny sposób przechowywania środków i chroni je przed potencjalnymi stratami w wyniku innych komend.
 Możesz zdecydować, ile pieniędzy chcesz wpłacić, określając żądaną kwotę jako argument.
 
 Komenda `/withdraw <ilość>` umożliwia wypłacenie określonej kwoty pieniędzy z konta bankowego do
