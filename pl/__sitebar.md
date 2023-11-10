@@ -16,7 +16,7 @@
 ## Zarządzanie serwerem
 * [Automatyczne role](/docs/autoroles)
 
-## Economy
+## Ekonomia
 * [Admin: Dlaczego potrzebujesz ekonomii?](/docs/why-do-you-need-economy)
 * [Podstawy waluty](/docs/basics-of-currency)
 * [Uzyskiwanie waluty](/docs/obtaining-currency)
@@ -32,7 +32,4 @@
 * [Podstawy /cock-fight](/docs/cock-fight)
 * [Opłata za zmianę pseudonimu serwera](/docs/change-nickname-item)
 * [Admin: Stosowanie rabatów na przedmioty](/docs/discounts)
-* [Podstawy /tic-tac-toe](/docs/tic-tac-toe)
 * [Podstawy /roulette](/docs/roulette)
-* [Podstawy /russian-roulette](/docs/russian-roulette)
-* [Admin: Dodatkowe ustawienia](/docs/additional-settings)
