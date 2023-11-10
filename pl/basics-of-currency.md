@@ -35,7 +35,7 @@ Komenda `/withdraw <ilość>` umożliwia wypłacenie określonej kwoty pieniędz
 portfela. Umożliwia to dostęp do środków na potrzeby różnych komend i transakcji. Możesz zdecydować, ile pieniędzy
 chcesz wypłacić, podając żądaną kwotę jako argument.
 
-## /pay – Transfer waluty
+## /pay – transfer waluty
 
 ![](../assets/v18.gif)
 
@@ -43,7 +43,7 @@ Komenda `/pay <użytkownik> <pieniądze>` umożliwia przesyłanie wirtualnych pi
 wzmiankę lub ID użytkownika będącego odbiorcą i określając żądaną kwotę, można zainicjować transakcję
 i wysłać wirtualne pieniądze komuś innemu.
 
-## /topmoney – Topka pieniędzy
+## /topmoney – topka pieniędzy
 
 Komenda `/topmoney` zawiera listę 10 najlepszych użytkowników z największą ilością wirtualnych pieniędzy na koncie bankowym.
 Ta komenda zapewnia przegląd najbogatszych członków społeczności i może służyć jako tablica wyników dla użytkowników do
