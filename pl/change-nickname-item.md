@@ -16,7 +16,7 @@ po jego użyciu, chyba że zostanie skonfigurowany inaczej.
 
 ## Admin: Włączanie przedmiotu
 
-Aby włączyć przedmiot "Zmień pseudomin", wykonaj następujące kroki na panelu serwera:
+Aby włączyć przedmiot "Zmień pseudonim", wykonaj następujące kroki na panelu serwera:
 
 1. Znajdź sekcję konfiguracji przedmiotu.
 2. Włącz opcję "Wyświetlaj przedmiot w sklepie", aby udostępnić przedmiot do zakupu w sklepie serwera.
